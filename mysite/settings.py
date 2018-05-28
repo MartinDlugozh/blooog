@@ -25,7 +25,7 @@ SECRET_KEY = 'f2b*xz(+rkm3t^xku=few=qb589p#v_f)*=mc+ll1j)^*9u#55'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [drsaldon.pythonanywhere.com]
 
 
 # Application definition
