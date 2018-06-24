@@ -7,7 +7,7 @@ I don`t need blog. I created this site just because I can do it.
 * [PythonAnywhere](https://www.pythonanywhere.com)
 
 ## Cheatsheet:
-###On your machine:
+#### On your machine:
 ```bash
 git status
 git add --all
@@ -16,7 +16,7 @@ git commit -m "name"
 git push
 ```
 
-###In PythonAnywhere console:
+#### In PythonAnywhere console:
 ```bash
 cd blooog
 source myvenv/bin/activate
